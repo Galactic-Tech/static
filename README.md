@@ -2,6 +2,6 @@
 
 ### Example
 
-`https://cdn.jsdelivr.net/gh/mexo-tech/[project]@[version][path][file]`
+`https://cdn.jsdelivr.net/gh/Galactic-Tech/[project]@[version][path][file]`
 
 > Do not easily delete the Releases version.
